@@ -1,0 +1,1 @@
+# nginx documentation for beginners
